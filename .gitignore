@@ -1,0 +1,12 @@
+# Ne pas suivre les fichiers lourds et temporaires
+data_pour_TD_final/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Fichiers macOS
+.DS_Store
+
+# Fichiers notebooks
+.ipynb_checkpoints/
