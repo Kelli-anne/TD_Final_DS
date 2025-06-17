@@ -54,32 +54,3 @@ def extraire_et_afficher_cves(flux_urls):
 
 # Exemple d'utilisation
 extraire_et_afficher_cves(flux_urls)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
